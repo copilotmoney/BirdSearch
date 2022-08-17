@@ -41,7 +41,9 @@ structured the following way:
 ]
 ```
 
-There are other fields available in the API, but they are not needed in the design spec.
+There are other fields available in the API, but they are not needed in the design spec. Feel free
+to use the new async/await Swift APIs to download the data and handle asynchronous tasks (it should
+be much easier).
 
 ## Project dependencies
 
