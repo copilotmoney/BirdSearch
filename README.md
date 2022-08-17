@@ -13,9 +13,10 @@ This shouldn't take you more than 3 hours to complete.
 
 ## Design Specs
 
-When run, the app should look like this:
-
-![Bird Search Spec](birdsearchspec.png)
+Before starting this project, your interviewer will provide a Figma link that will contain the
+design specs for the exercise. They should be followed as closely as possible. You will need to
+create an account in order to view the specs, but it should be as easy as providing an email address
+and clicking on the link on the confirmation email.
 
 ## API and data model
 
@@ -60,7 +61,7 @@ Please also send an email to the interviewer letting them know that you've finis
 
 * Make the presented image zoomable with a pinch gesture.
 * Add pull to refresh to the bird list.
-* Handle failed downloads gracefully.
+* Handle slow and failed downloads gracefully.
 
 ## Questions
 
